@@ -47,6 +47,41 @@ git commit -m 'my commit'
 **Under tihs copy each line under code section and pase it in your git bash one by one
 **After downloading all the dependency you will see your react file copy under your github repository**
 
+## Deployment of React-App
+
+### Step 1
+**Add homepage to package.json**
+```
+  "homepage": "https://myusername.github.io/my-app",
+```
+Where in the myusername you have to write you github username
+           &
+In the my-app you have to write your repository name
+
+### Step 2
+**In your terminal choose your main directory and run this command**
+```
+npm install --save gh-pages
+```
+
+### Step 3
+**Add the following scripts in your package.json:**
+```
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+```
+Under Script in package.json
+
+### Step 4
+**Now run this command to deploy your site**
+```
+npm run deploy
+```
+
+### Step 5
+
+      
+
 
 
 
