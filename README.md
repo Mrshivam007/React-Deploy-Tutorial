@@ -6,17 +6,18 @@
 **Go inside your react forder**
 
 ### Step 2
-**Under your react forder open git bash here
+**Under your react forder open git bash here**
 
 ### Step 3
-** Use cd command to go under your react main folder
+** Use cd command to go under your react main folder**
+
 ```
 cd
 ```
 
 ### Step 4
-** After you go to your main folder 
-** Use git init command to initilize your directory
+** After you go to your main folder **
+** Use git init command to initilize your directory**
 ```
 git init
 ```
