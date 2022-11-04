@@ -1,6 +1,6 @@
 # React-Deploy-Tutorial
 
-## To Deploy Your React-App on github follow the steps below
+## Adding React-App on github
 
 ### Step 1
 **Go inside your react forder**
@@ -41,5 +41,12 @@ git commit -m 'my commit'
 ```
 
 ### Step 8
+**After all this process above**
+**Go to your github account and create an repository**
+**After creation of your github repository you will see push an existing repository from the command line**
+**Under tihs copy each line under code section and pase it in your git bash one by one
+**After downloading all the dependency you will see your react file copy under your github repository**
+
+
 
 
